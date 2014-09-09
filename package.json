@@ -1,0 +1,28 @@
+{
+  "name": "wait-element",
+  "version": "0.0.0",
+  "description": "auto test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ke.zhang.cn@gmail.com",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeZhang/waitElement.git"
+  },
+  "keywords": [
+    "wait",
+    "e2e",
+    "testcase",
+    "web-driver"
+  ],
+  "bugs": {
+    "url": "https://github.com/KeZhang/waitElement/issues"
+  },
+  "homepage": "https://github.com/KeZhang/waitElement"
+}
