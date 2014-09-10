@@ -1,6 +1,6 @@
 {
   "name": "wait-element",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "auto test",
   "main": "index.js",
   "scripts": {
